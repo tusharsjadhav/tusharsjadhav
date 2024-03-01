@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Jadhav</h1>
-<h3 align="center">A passionate AI&DS studentfrom India</h3>
+<h3 align="center">A passionate AI&DS student from India</h3>
 <img align="right" alt="coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.zVnWJtyGOX_kUIDm6ccCfQHaEq&pid=Api&P=0&h=180">
 
 - 🌱 I’m currently learning **Currently Pursuing BTech in Artificial Intelligence and Data Science**
